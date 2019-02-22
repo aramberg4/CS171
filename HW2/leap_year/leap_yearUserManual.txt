@@ -1,0 +1,13 @@
+Program: leap_year.cpp
+
+- This program asks the user to enter a year and returns whether or not that year is a leap year.
+
+- The program assumes the user will enter a valid year
+
+- The program will check that the year is after 1581 as the rule does not apply before that year.
+
+- To run the program, you must compile it and then execute it using programs such as VisualStudio, Xcode, or a command line interface.
+
+- Once you have compiled and executed the program, it will prompt you to enter a year. Enter in a valid, nonnegative year (e.x. 1928).
+
+- Once you hit the final return, the program will tell you whether or not that year is a leap year.

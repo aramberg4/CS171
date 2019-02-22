@@ -1,0 +1,27 @@
+Program: program2.cpp
+
+- This program asks the	user to input a number of fluid ounces. It then allocates the fluid ounces into the various units, first starting with barrels, then gallons, and soon, finishing with tablespoons.
+
+- The program makes use of the following conversion rates to make these calculations:
+	
+	1	fluid ounce	=	2	tablespoons
+	1	gill		=	4	fluid ounces (fl oz)
+	1	cup			=	2	gills
+	1	pint		=	2	cups
+	1	quart		=	2	pints
+	1	gallon		=	4	quarts
+	1	barrel		=	42	gallons
+
+- Integer division and the conversion rates above are used to calculate the integer amount of each unit that can be yielded by the amount of ounces.
+
+	int pints = ouncesLeft / (cupsPerPint * gillsPerCup * ouncesPerGill);
+
+	Will return the amount of whole pints given a certain number of ounces.
+
+- Modulo is used to find the remainder of ounces that couldn't evenly divide into a unit to be used on the next unit of measurement. 
+
+	ouncesLeft = ouncesLeft % (cupsPerPint * gillsPerCup * ouncesPerGill);
+
+	Will return the  number of ounces that remain after the pints have been "filled."
+
+- This process is repeated from barrels down to tablespoons until the number of ounces is exhausted. 

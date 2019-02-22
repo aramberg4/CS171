@@ -1,0 +1,394 @@
+Status of your APOLLO3 spacecraft: 
+Time : 0 seconds
+Height: 1000 feet
+Speed : 50 feet/second
+Fuel : 150
+
+How much fuel do you want to burn? (0-30) 30
+Status of your APOLLO3 spacecraft: 
+Time : 1 seconds
+Height: 962.5 feet
+Speed : 25 feet/second
+Fuel : 120
+
+How much fuel do you want to burn? (0-30) 30
+Status of your APOLLO3 spacecraft: 
+Time : 2 seconds
+Height: 950 feet
+Speed : 0 feet/second
+Fuel : 90
+
+How much fuel do you want to burn? (0-30) 30
+Status of your APOLLO3 spacecraft: 
+Time : 3 seconds
+Height: 962.5 feet
+Speed : -25 feet/second
+Fuel : 60
+
+How much fuel do you want to burn? (0-30) 30
+Status of your APOLLO3 spacecraft: 
+Time : 4 seconds
+Height: 1000 feet
+Speed : -50 feet/second
+Fuel : 30
+
+How much fuel do you want to burn? (0-30) 20
+Status of your APOLLO3 spacecraft: 
+Time : 5 seconds
+Height: 1057.5 feet
+Speed : -65 feet/second
+Fuel : 10
+
+How much fuel do you want to burn? (0-30) 20
+Status of your APOLLO3 spacecraft: 
+Time : 6 seconds
+Height: 1130 feet
+Speed : -80 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 7 seconds
+Height: 1207.5 feet
+Speed : -75 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 8 seconds
+Height: 1280 feet
+Speed : -70 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 9 seconds
+Height: 1347.5 feet
+Speed : -65 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 10 seconds
+Height: 1410 feet
+Speed : -60 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 11 seconds
+Height: 1467.5 feet
+Speed : -55 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 12 seconds
+Height: 1520 feet
+Speed : -50 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 13 seconds
+Height: 1567.5 feet
+Speed : -45 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 14 seconds
+Height: 1610 feet
+Speed : -40 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 15 seconds
+Height: 1647.5 feet
+Speed : -35 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 16 seconds
+Height: 1680 feet
+Speed : -30 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 17 seconds
+Height: 1707.5 feet
+Speed : -25 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 18 seconds
+Height: 1730 feet
+Speed : -20 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 19 seconds
+Height: 1747.5 feet
+Speed : -15 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 20 seconds
+Height: 1760 feet
+Speed : -10 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 21 seconds
+Height: 1767.5 feet
+Speed : -5 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 22 seconds
+Height: 1770 feet
+Speed : 0 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 23 seconds
+Height: 1767.5 feet
+Speed : 5 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 24 seconds
+Height: 1760 feet
+Speed : 10 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 25 seconds
+Height: 1747.5 feet
+Speed : 15 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 26 seconds
+Height: 1730 feet
+Speed : 20 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 27 seconds
+Height: 1707.5 feet
+Speed : 25 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 28 seconds
+Height: 1680 feet
+Speed : 30 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 29 seconds
+Height: 1647.5 feet
+Speed : 35 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 30 seconds
+Height: 1610 feet
+Speed : 40 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 31 seconds
+Height: 1567.5 feet
+Speed : 45 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 32 seconds
+Height: 1520 feet
+Speed : 50 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 33 seconds
+Height: 1467.5 feet
+Speed : 55 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 34 seconds
+Height: 1410 feet
+Speed : 60 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 35 seconds
+Height: 1347.5 feet
+Speed : 65 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 36 seconds
+Height: 1280 feet
+Speed : 70 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 37 seconds
+Height: 1207.5 feet
+Speed : 75 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 38 seconds
+Height: 1130 feet
+Speed : 80 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 39 seconds
+Height: 1047.5 feet
+Speed : 85 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 40 seconds
+Height: 960 feet
+Speed : 90 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 41 seconds
+Height: 867.5 feet
+Speed : 95 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 42 seconds
+Height: 770 feet
+Speed : 100 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 43 seconds
+Height: 667.5 feet
+Speed : 105 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 44 seconds
+Height: 560 feet
+Speed : 110 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 45 seconds
+Height: 447.5 feet
+Speed : 115 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 46 seconds
+Height: 330 feet
+Speed : 120 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 47 seconds
+Height: 207.5 feet
+Speed : 125 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+Status of your APOLLO3 spacecraft: 
+Time : 48 seconds
+Height: 80 feet
+Speed : 130 feet/second
+Fuel : 0
+
+**** OUT OF FUEL ****
+
+**** CONTACT ****
+Status of your APOLLO3 spacecraft: 
+Time : 48.6083 seconds
+Height: 0 feet
+Speed : 133.041 feet/second
+Fuel : 0
+
+You totaled an entire mountain!!!!!Your family will be notified...by post.

@@ -1,0 +1,13 @@
+Program: bac.cpp
+
+- This program asks the user to enter the weight, sex and time since their last drink, and then prints out a table of information showing the status according to the BAC
+
+- To run the program, you must compile it and then execute it using programs such as VisualStudio, Xcode, or a command line interface.
+
+- When the user runs the program, they will be prompted to enter their weight in pounds, the amount of minutes since their last drink and their sex.
+
+- The program assumes the user will enter valid inputs.
+
+- If what the user has entered is outside the reasonable range deemed by the program (0-400) it will continue to ask the user for an input.
+
+- Once you hit the final return, the program will print out a table showing the effect of 10 drinks on your BAC as well as information regarding legality and driving safety.

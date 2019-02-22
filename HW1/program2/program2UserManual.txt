@@ -1,0 +1,9 @@
+Program: program2.cpp
+
+- This program asks the	user to input a number of fluid ounces. It then allocates the fluid ounces into the various units, first starting with barrels, then gallons, and soon, finishing with tablespoons.
+
+- To run the program, you must compile it and then execute it using programs such as VisualStudio, Xcode, or a command line interface.
+
+- Once you have compiled and executed the program, it will prompt you to enter how many fluid ounces you have. Enter in a valid integer value (e.x. 6555).
+
+- Once you hit the final return, the program will display how the total ounces have been allocated into each unit.

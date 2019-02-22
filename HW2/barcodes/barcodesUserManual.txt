@@ -1,0 +1,13 @@
+Program: barcodes.cpp
+
+- This program asks the user to enter a valid zipcode and then converts it to a barcode.
+
+- The program assumes the user will enter a valid zipcode.
+
+- The program will check that the zipcode is nonnegative and output an error message if it is negative.
+
+- To run the program, you must compile it and then execute it using programs such as VisualStudio, Xcode, or a command line interface.
+
+- Once you have compiled and executed the program, it will prompt you to enter a five digit barcode. Enter in a valid, nonnegative zipcode (e.x. 95014).
+
+- Once you hit the final return, the program will output the converted barcode.

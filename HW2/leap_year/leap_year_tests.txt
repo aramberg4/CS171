@@ -1,0 +1,26 @@
+Austins-MacBook-Pro:C++ austinramberg$ g++ -oex  leap_year.cpp 
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1900
+Your year is not a leap year :(
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 2017
+Your year is not a leap year :(
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 2016
+Your year is a leap year!
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1996
+Your year is a leap year!
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1492
+Year must be greater than 1581
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1582
+Your year is not a leap year :(
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1866
+Your year is not a leap year :(
+Austins-MacBook-Pro:C++ austinramberg$ ./ex
+Please enter a year: 1776
+Your year is a leap year!
+Austins-MacBook-Pro:C++ austinramberg$ 

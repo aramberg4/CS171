@@ -1,0 +1,12 @@
+Program: leap_year.cpp
+
+- This program asks the user to enter a year and returns whether or not that year is a leap year.
+
+- For all dates after 1582 the Gregorian correction applies. Usually years that are divisible by 4 are leap years, for example 1996. However, years that are divisible by 100 (for example, 1900) are not leap years, but years that are divisible by 400 are leap years.
+
+- Below is the general logic for determining a leap year:
+
+if (year is not divisible by 4) then (it is a common year)
+else if (year is not divisible by 100) then (it is a leap year)
+else if (year is not divisible by 400) then (it is a common year)
+else (it is a leap year)

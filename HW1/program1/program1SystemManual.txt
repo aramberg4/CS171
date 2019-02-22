@@ -1,0 +1,29 @@
+Program: program1.cpp
+
+- This program projects the cost of a college education for high school students who are looking for a college given the student's initial tuition and percentage of yearly tution increase. 
+
+- This program calculates the tuiton for each year recursively using the formula below:
+
+	t' = (1+r)t = Rt
+	Where:
+	t = the previous year
+	t' = the current year
+	r = the percentage of yearly tution increase
+	R = r + 1
+
+- The program accepts an initial tuition value in dollars but then converts to pennies to make calcualtions easier.
+The final answers are then converted by to dollars using integer division and modulo.
+	dollars = t/penniesPerDollar;
+    cents = float (t % penniesPerDollar) / float(penniesPerDollar);
+    T = dollars + cents;
+
+    Where:
+    penniesPerDollar = 100
+    t = tuition (in pennies)
+    T = t converted back to dollars
+
+- The code below is used to make sure cents are formatted correctly in the output stream of the final answers:
+
+	cout.setf(ios::fixed);
+    cout.setf(ios::showpoint);
+    cout.precision(2);

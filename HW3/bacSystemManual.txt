@@ -1,0 +1,32 @@
+Program: bac.cpp
+
+- This program asks the user to enter the weight, sex and time since their last drink, and then prints out a table of information showing the status according to the BAC
+
+- A person's Blood Alcohol Concentration (BAC) has been strongly correlated with driving impairment to the extent that there are legal designations regarding level of impairment.
+
+- The amount will be measured in number	of drinks, which is equivalent to a 12	oz. beer, 1.25 oz. of 80	proof liquor, or 5 oz. of table	wine.
+
+- The duration will be	measured in minutes. Our calculations will assume BAC reduces by .01 for each 40	minutes	spent drinking.	What this means	is that	if you have	five drinks but do this over two hours, your	BAC is reduced compared to what would be if you drank five drinks quickly in a row and then immediately measured your BAC;
+
+- The weight will be measured in pounds
+
+- The formulas vary according to gender.
+
+- BAC can be found by dividing the number of drinks by the person's weight and multiplying by a constant.	
+
+- The constant is 4.5 for females and 3.8 for males.
+
+- The BAC gets reduced by the time spent after the last	drink by .01 for each 40 4minutes.
+
+- The combined formula is as follows:
+
+C(d / w) - r(D / t)
+
+    	where:
+    	d = number of drinks
+    	w = weight in pounds
+    	C = sex constant
+    	D = duration in minutes
+    	r = reduction rate
+    	t = reduction time
+

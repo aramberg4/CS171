@@ -1,0 +1,13 @@
+Program: program1.cpp
+
+- This program projects the cost of a college education for high school students who are looking for a college given the student's initial tuition and percentage of yearly tution increase. 
+
+- The program assumes the following two things:
+	1. The student will be engaging in a five year course of study.
+	2. The rate of tuition growth will be a constant percentage throughout their five years.
+
+- To run the program, you must compile it and then execute it using programs such as VisualStudio, Xcode, or a command line interface.
+
+- Once you have compiled and executed the program, it will prompt you to enter an initial tuition amount. Enter in a valid integer value (e.x. 40000). It will then prompt you to enter the yearly tuition increase as a percentage. Enter a valid float value (e.x. 5.2, which means "5.2%").
+
+- Once you hit the final return, the program will tell you the tuition that will have to be paid for each of the five years as well as the total tuition cost for all five years.

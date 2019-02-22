@@ -1,0 +1,26 @@
+Program: barcodes.cpp
+
+- This program asks the user to enter a valid zipcode and then converts it to a barcode.
+
+- Postal bar codes. For faster sorting of letters, the United States Postal Service encourages companies that send large volumes of mail to use a bar code denoting the zip code.
+
+- The five encoded digits are followed by a check digit, which is computed as follows: Add up all digits, and choose the check digit to make the sum a multiple of 10. For example, the zip code 95014 has a sum of 19, so the check digit is 1 to make the sum equal to 20.
+
+- Each digit of the zip code, and the check digit, is encoded according to the following table where 0 denotes a half bar and 1 a full bar.
+
+	74210
+1 - 00011
+2 - 00101
+3 - 00110
+4 - 01001
+5 - 01010
+6 - 01100
+7 - 10001
+8 - 10010
+9 - 10100
+0 - 11000
+
+- Note that they represent all combinations of two full and three half bars. The digit can be easily computed from the bar code using the column weights 7, 4, 2, 1, 0. For example, 01100 is 0 × 7 + 1 × 4 + 1 × 2 + 0 × 1 × 0 × 0 = 6. The only exception is 0, which would yield 11 according to the weight formula.
+
+- The prgram asks the user for a zip code and prints the bar code. Using : for half bars, | for full bars. For example, 95014 becomes
+||:|:::|:|:||::::::||:|::|:::|||
