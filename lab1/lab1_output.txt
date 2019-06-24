@@ -1,0 +1,12 @@
+METRIC CONVERTER
+
+Enter your height in inches (No fractions, please!) : 72
+Enter your weight in pounds (No fractions, please!) 187
+
+Enter your body temperature in Fahrenheit
+(No fractions, please!)
+45
+Your height is 1.8288 meters.
+Your weight is 83.4821 kilograms.
+Your temperature is 7 degrees Centrigrade.
+Program ended with exit code: 0
